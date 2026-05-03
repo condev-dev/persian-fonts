@@ -1,4 +1,4 @@
-- # persian web fonts
+- # persian fonts
 - Some Persian Font - For Text and Title.
   <br><br>
 
